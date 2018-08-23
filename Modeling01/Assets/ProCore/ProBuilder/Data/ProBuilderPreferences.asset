@@ -13,6 +13,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Bool_keys:
   - pbIconGUI
+  - pbObjExportRightHanded
+  - pbObjApplyTransform
+  - pbObjExportCopyTextures
+  - pbObjExportVertexColors
+  - pbObjTextureOffsetScale
+  - pbObjQuads
   m_Int_keys:
   - pbDefaultEditLevel
   - pbDefaultSelectionMode
@@ -24,11 +30,11 @@ MonoBehaviour:
   m_String_keys: []
   m_Color_keys: []
   m_Material_keys: []
-  m_Bool_values: 00
+  m_Bool_values: 00010101000001
   m_Int_values: 00000000020000000000000000000000
   m_Float_values:
   - 0
-  - 70
+  - 0
   m_String_values: []
   m_Color_values: []
   m_Material_values: []
